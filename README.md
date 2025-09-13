@@ -31,8 +31,7 @@ https://newsletter-ui-project-ali-khezri.netlify.app/
 ---
 ## 🧑‍💻 How to Use
 1. Clone this repo:
-   ```
-bash
+   ```bash
    git clone https://github.com/your-username/newsletter-ui.git
 ````
 
