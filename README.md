@@ -28,18 +28,18 @@ https://newsletter-ui-project-ali-khezri.netlify.app/
 - Benefits section with check icons  
 - Responsive design (mobile-friendly)  
 
+---
 ## 🧑‍💻 How to Use
 1. Clone this repo:
-   ```bash
+   ```
+bash
    git clone https://github.com/your-username/newsletter-ui.git
 ````
 
 2. Open `index.html` in your browser.
-
+````
 
 ## 👤 Author
 
 **Ali Khezri**
 [GitHub](https://github.com/ali-khezri) | [LinkedIn](https://www.linkedin.com/in/ali-khezri)
-
----
